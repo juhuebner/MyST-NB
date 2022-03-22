@@ -13,7 +13,7 @@ kernelspec:
 
 (glue)=
 
-# Inserting variables into pages with `glue`
+# Insert variables into pages with `glue`
 
 You often wish to run analyses in one notebook and insert them into your
 documents text elsewhere. For example, if you'd like to include a figure,
@@ -190,7 +190,7 @@ control over how the outputs look in your pages.
 
 +++
 
-## Controling the pasted outputs
+## Controlling the pasted outputs
 
 You can control the pasted outputs by using a sub-command of `{glue:}`. These are called like so:
 `` {glue:subcommand}`key` ``. These subcommands allow you to control more of the look, feel, and
